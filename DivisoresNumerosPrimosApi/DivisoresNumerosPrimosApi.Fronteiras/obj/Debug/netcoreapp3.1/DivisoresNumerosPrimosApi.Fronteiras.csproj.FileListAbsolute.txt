@@ -1,0 +1,9 @@
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Fronteiras\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Fronteiras.deps.json
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Fronteiras\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Fronteiras.dll
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Fronteiras\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Fronteiras.pdb
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Fronteiras\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Fronteiras.csprojAssemblyReference.cache
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Fronteiras\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Fronteiras.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Fronteiras\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Fronteiras.AssemblyInfo.cs
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Fronteiras\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Fronteiras.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Fronteiras\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Fronteiras.dll
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Fronteiras\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Fronteiras.pdb

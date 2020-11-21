@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DivisoresNumerosPrimosLocaliza.Executor/1.0.0": {
+        "dependencies": {
+          "DivisoresNumerosPrimosLocaliza.Fronteiras": "1.0.0",
+          "DivisoresNumerosPrimosLocaliza.Util": "1.0.0"
+        },
+        "runtime": {
+          "DivisoresNumerosPrimosLocaliza.Executor.dll": {}
+        }
+      },
+      "DivisoresNumerosPrimosLocaliza.Fronteiras/1.0.0": {
+        "runtime": {
+          "DivisoresNumerosPrimosLocaliza.Fronteiras.dll": {}
+        }
+      },
+      "DivisoresNumerosPrimosLocaliza.Util/1.0.0": {
+        "runtime": {
+          "DivisoresNumerosPrimosLocaliza.Util.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DivisoresNumerosPrimosLocaliza.Executor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DivisoresNumerosPrimosLocaliza.Fronteiras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DivisoresNumerosPrimosLocaliza.Util/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

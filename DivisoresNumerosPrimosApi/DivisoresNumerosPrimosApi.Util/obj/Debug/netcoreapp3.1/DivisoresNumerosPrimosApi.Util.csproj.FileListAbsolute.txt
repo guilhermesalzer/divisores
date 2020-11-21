@@ -1,0 +1,9 @@
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Util\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Util.deps.json
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Util\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Util.dll
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Util\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Util.pdb
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Util\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Util.csprojAssemblyReference.cache
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Util\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Util.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Util\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Util.AssemblyInfo.cs
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Util\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Util.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Util\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Util.dll
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Util\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Util.pdb

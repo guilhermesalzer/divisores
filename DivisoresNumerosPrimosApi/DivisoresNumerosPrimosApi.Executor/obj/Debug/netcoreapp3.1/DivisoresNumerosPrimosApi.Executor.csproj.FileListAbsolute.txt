@@ -1,0 +1,14 @@
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Executor.deps.json
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Executor.dll
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Executor.pdb
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Fronteiras.dll
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Util.dll
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Fronteiras.pdb
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Util.pdb
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Executor.csprojAssemblyReference.cache
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Executor.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Executor.AssemblyInfo.cs
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Executor.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Executor.csproj.CopyComplete
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Executor.dll
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosApi\DivisoresNumerosPrimosApi.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosApi.Executor.pdb

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisoresNumerosPrimos", "DivisoresNumerosPrimos\DivisoresNumerosPrimos.csproj", "{9F528442-EB32-48E7-B509-2D5A92D928CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisoresNumerosPrimos.Teste", "DivisoresNumerosPrimos.Teste\DivisoresNumerosPrimos.Teste.csproj", "{52D3C877-A415-4B1E-B525-5896CC99FE4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisoresNumerosPrimos.Executor", "DivisoresNumerosPrimos.Executor\DivisoresNumerosPrimos.Executor.csproj", "{2DD11ADE-5C96-4831-875A-F66E0B13A668}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisoresNumerosPrimos.Fronteiras", "DivisoresNumerosPrimos.Fronteiras\DivisoresNumerosPrimos.Fronteiras.csproj", "{B5790039-6DDF-4878-90E2-376456F05620}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisoresNumerosPrimos.Util", "DivisoresNumerosPrimos.Util\DivisoresNumerosPrimos.Util.csproj", "{F3706ADF-1063-4A65-829D-624D45715EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F528442-EB32-48E7-B509-2D5A92D928CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F528442-EB32-48E7-B509-2D5A92D928CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F528442-EB32-48E7-B509-2D5A92D928CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F528442-EB32-48E7-B509-2D5A92D928CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D3C877-A415-4B1E-B525-5896CC99FE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D3C877-A415-4B1E-B525-5896CC99FE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D3C877-A415-4B1E-B525-5896CC99FE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D3C877-A415-4B1E-B525-5896CC99FE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD11ADE-5C96-4831-875A-F66E0B13A668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD11ADE-5C96-4831-875A-F66E0B13A668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD11ADE-5C96-4831-875A-F66E0B13A668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD11ADE-5C96-4831-875A-F66E0B13A668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5790039-6DDF-4878-90E2-376456F05620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5790039-6DDF-4878-90E2-376456F05620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5790039-6DDF-4878-90E2-376456F05620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5790039-6DDF-4878-90E2-376456F05620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3706ADF-1063-4A65-829D-624D45715EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3706ADF-1063-4A65-829D-624D45715EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3706ADF-1063-4A65-829D-624D45715EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3706ADF-1063-4A65-829D-624D45715EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5C3AA86-CD75-43BA-BE44-1B09E02841BF}
+	EndGlobalSection
+EndGlobal

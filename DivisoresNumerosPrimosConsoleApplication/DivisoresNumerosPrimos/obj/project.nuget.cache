@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgRYr3gJMFn0jtIozKgMNKryBo5ubjbusmwW44J5b/gOcIUgW5DgxIxCNbb5O9vTQGw1TuDNFjSbSkaEwv3Sug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimos\\DivisoresNumerosPrimos\\DivisoresNumerosPrimos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

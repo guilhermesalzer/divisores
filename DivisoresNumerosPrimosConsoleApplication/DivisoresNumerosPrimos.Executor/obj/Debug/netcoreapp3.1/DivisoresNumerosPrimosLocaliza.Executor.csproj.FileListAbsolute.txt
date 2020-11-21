@@ -1,0 +1,14 @@
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Executor.deps.json
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Executor.dll
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Executor.pdb
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Fronteiras.dll
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Util.dll
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Fronteiras.pdb
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Util.pdb
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Executor.csprojAssemblyReference.cache
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Executor.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Executor.AssemblyInfo.cs
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Executor.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Executor.csproj.CopyComplete
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Executor.dll
+C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Executor\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Executor.pdb
