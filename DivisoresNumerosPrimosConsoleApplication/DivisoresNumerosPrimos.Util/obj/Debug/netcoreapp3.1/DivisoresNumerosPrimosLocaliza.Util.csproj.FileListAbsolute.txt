@@ -1,9 +1,0 @@
-C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Util\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Util.deps.json
-C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Util\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Util.dll
-C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Util\bin\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Util.pdb
-C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Util\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Util.csprojAssemblyReference.cache
-C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Util\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Util.AssemblyInfoInputs.cache
-C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Util\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Util.AssemblyInfo.cs
-C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Util\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Util.csproj.CoreCompileInputs.cache
-C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Util\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Util.dll
-C:\Users\guilh\Documents\Projetos\DivisoresNumerosPrimosLocaliza\DivisoresNumerosPrimosLocaliza.Util\obj\Debug\netcoreapp3.1\DivisoresNumerosPrimosLocaliza.Util.pdb
