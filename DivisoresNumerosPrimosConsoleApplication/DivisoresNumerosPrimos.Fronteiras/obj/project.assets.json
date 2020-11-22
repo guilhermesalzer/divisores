@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimos\\DivisoresNumerosPrimos.Fronteiras\\DivisoresNumerosPrimos.Fronteiras.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosConsoleApplication\\DivisoresNumerosPrimos.Fronteiras\\DivisoresNumerosPrimos.Fronteiras.csproj",
       "projectName": "DivisoresNumerosPrimos.Fronteiras",
-      "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimos\\DivisoresNumerosPrimos.Fronteiras\\DivisoresNumerosPrimos.Fronteiras.csproj",
+      "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosConsoleApplication\\DivisoresNumerosPrimos.Fronteiras\\DivisoresNumerosPrimos.Fronteiras.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimos\\DivisoresNumerosPrimos.Fronteiras\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosConsoleApplication\\DivisoresNumerosPrimos.Fronteiras\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

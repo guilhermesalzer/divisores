@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Util\\DivisoresNumerosPrimosApi.Util.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Util\\DivisoresNumerosPrimosApi.Util.csproj",
       "projectName": "DivisoresNumerosPrimosApi.Util",
-      "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Util\\DivisoresNumerosPrimosApi.Util.csproj",
+      "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Util\\DivisoresNumerosPrimosApi.Util.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Util\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Util\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

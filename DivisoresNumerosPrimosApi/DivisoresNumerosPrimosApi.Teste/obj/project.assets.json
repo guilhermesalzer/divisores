@@ -5724,11 +5724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Teste\\DivisoresNumerosPrimosApi.Teste.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Teste\\DivisoresNumerosPrimosApi.Teste.csproj",
       "projectName": "DivisoresNumerosPrimosApi.Teste",
-      "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Teste\\DivisoresNumerosPrimosApi.Teste.csproj",
+      "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Teste\\DivisoresNumerosPrimosApi.Teste.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Teste\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Teste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5749,14 +5749,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Executor\\DivisoresNumerosPrimosApi.Executor.csproj": {
-              "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Executor\\DivisoresNumerosPrimosApi.Executor.csproj"
+            "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Executor\\DivisoresNumerosPrimosApi.Executor.csproj": {
+              "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Executor\\DivisoresNumerosPrimosApi.Executor.csproj"
             },
-            "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Fronteiras\\DivisoresNumerosPrimosApi.Fronteiras.csproj": {
-              "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Fronteiras\\DivisoresNumerosPrimosApi.Fronteiras.csproj"
+            "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Fronteiras\\DivisoresNumerosPrimosApi.Fronteiras.csproj": {
+              "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Fronteiras\\DivisoresNumerosPrimosApi.Fronteiras.csproj"
             },
-            "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Util\\DivisoresNumerosPrimosApi.Util.csproj": {
-              "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Util\\DivisoresNumerosPrimosApi.Util.csproj"
+            "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Util\\DivisoresNumerosPrimosApi.Util.csproj": {
+              "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Util\\DivisoresNumerosPrimosApi.Util.csproj"
             }
           }
         }

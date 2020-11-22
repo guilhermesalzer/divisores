@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimos\\DivisoresNumerosPrimos.Executor\\DivisoresNumerosPrimos.Executor.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosConsoleApplication\\DivisoresNumerosPrimos.Executor\\DivisoresNumerosPrimos.Executor.csproj",
       "projectName": "DivisoresNumerosPrimos.Executor",
-      "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimos\\DivisoresNumerosPrimos.Executor\\DivisoresNumerosPrimos.Executor.csproj",
+      "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosConsoleApplication\\DivisoresNumerosPrimos.Executor\\DivisoresNumerosPrimos.Executor.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimos\\DivisoresNumerosPrimos.Executor\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosConsoleApplication\\DivisoresNumerosPrimos.Executor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -75,11 +75,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimos\\DivisoresNumerosPrimos.Fronteiras\\DivisoresNumerosPrimos.Fronteiras.csproj": {
-              "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimos\\DivisoresNumerosPrimos.Fronteiras\\DivisoresNumerosPrimos.Fronteiras.csproj"
+            "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosConsoleApplication\\DivisoresNumerosPrimos.Fronteiras\\DivisoresNumerosPrimos.Fronteiras.csproj": {
+              "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosConsoleApplication\\DivisoresNumerosPrimos.Fronteiras\\DivisoresNumerosPrimos.Fronteiras.csproj"
             },
-            "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimos\\DivisoresNumerosPrimos.Util\\DivisoresNumerosPrimos.Util.csproj": {
-              "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimos\\DivisoresNumerosPrimos.Util\\DivisoresNumerosPrimos.Util.csproj"
+            "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosConsoleApplication\\DivisoresNumerosPrimos.Util\\DivisoresNumerosPrimos.Util.csproj": {
+              "projectPath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosConsoleApplication\\DivisoresNumerosPrimos.Util\\DivisoresNumerosPrimos.Util.csproj"
             }
           }
         }

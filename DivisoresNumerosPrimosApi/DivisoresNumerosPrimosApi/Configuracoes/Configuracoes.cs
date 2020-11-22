@@ -1,8 +1,8 @@
-﻿using DivisoresNumerosPrimosLocalizaApi.Executor;
-using DivisoresNumerosPrimosLocalizaApi.Fronteiras;
+﻿using DivisoresNumerosPrimosApi.Executor;
+using DivisoresNumerosPrimosApi.Fronteiras;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DivisoresNumerosPrimosLocalizaApi.Configuracoes
+namespace DivisoresNumerosPrimosApi.Configuracoes
 {
     public static class Configuracoes
     {

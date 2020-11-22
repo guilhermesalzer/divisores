@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WNHL32lQSLOP+HbuX7HSEGEJrKQrX3ZThQuNkYsYJP7HxUP+Qzms6RC75v/CMcEGKmYfoAWsoEhzQartuA1QTg==",
+  "dgSpecHash": "FKd/SVViNlj3I52T68TnRBDl2/DmQU9Dw7gVDIV5RfSI9fuJ/YAumuwk7JCXBLdLBBq3KEho7aFJ7z+0xDRrAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimos\\DivisoresNumerosPrimos.Fronteiras\\DivisoresNumerosPrimos.Fronteiras.csproj",
+  "projectFilePath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosConsoleApplication\\DivisoresNumerosPrimos.Fronteiras\\DivisoresNumerosPrimos.Fronteiras.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

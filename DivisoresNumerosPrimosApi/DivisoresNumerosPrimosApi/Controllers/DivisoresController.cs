@@ -1,11 +1,11 @@
-﻿using DivisoresNumerosPrimosLocalizaApi.Fronteiras;
-using DivisoresNumerosPrimosLocalizaApi.Fronteiras.CalcularDivisoresExecutor;
-using DivisoresNumerosPrimosLocalizaApi.Fronteiras.CalcularDivisoresPrimosExecutor;
+﻿using DivisoresNumerosPrimosApi.Fronteiras;
+using DivisoresNumerosPrimosApi.Fronteiras.CalcularDivisoresExecutor;
+using DivisoresNumerosPrimosApi.Fronteiras.CalcularDivisoresPrimosExecutor;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Linq;
 
-namespace DivisoresNumerosPrimosLocalizaApi.Controllers
+namespace DivisoresNumerosPrimosApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

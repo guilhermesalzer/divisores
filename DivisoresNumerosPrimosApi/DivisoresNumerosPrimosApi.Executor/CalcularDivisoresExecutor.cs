@@ -1,11 +1,11 @@
-﻿using DivisoresNumerosPrimosLocalizaApi.Fronteiras;
-using DivisoresNumerosPrimosLocalizaApi.Fronteiras.CalcularDivisoresExecutor;
-using DivisoresNumerosPrimosLocalizaApi.Util;
+﻿using DivisoresNumerosPrimosApi.Fronteiras;
+using DivisoresNumerosPrimosApi.Fronteiras.CalcularDivisoresExecutor;
+using DivisoresNumerosPrimosApi.Util;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DivisoresNumerosPrimosLocalizaApi.Executor
+namespace DivisoresNumerosPrimosApi.Executor
 {
     public class CalcularDivisoresExecutor : ICalcularDivisoresExecutor
     {

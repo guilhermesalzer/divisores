@@ -1,4 +1,4 @@
-﻿namespace DivisoresNumerosPrimosLocalizaApi.Fronteiras.CalcularDivisoresPrimosExecutor
+﻿namespace DivisoresNumerosPrimosApi.Fronteiras.CalcularDivisoresPrimosExecutor
 {
     public class CalcularDivisoresPrimosRequisicao
     {

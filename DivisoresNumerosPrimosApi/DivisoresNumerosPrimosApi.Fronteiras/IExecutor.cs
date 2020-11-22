@@ -1,4 +1,4 @@
-﻿namespace DivisoresNumerosPrimosLocalizaApi.Fronteiras
+﻿namespace DivisoresNumerosPrimosApi.Fronteiras
 {
     public interface IExecutor<Tin, Tout>
     {

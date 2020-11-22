@@ -4,7 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace DivisoresNumerosPrimosLocalizaApi
+namespace DivisoresNumerosPrimosApi
 {
     public class Startup
     {
@@ -47,7 +47,7 @@ namespace DivisoresNumerosPrimosLocalizaApi
 
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Divisores - Localiza");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Divisores");
             });
         }
     }

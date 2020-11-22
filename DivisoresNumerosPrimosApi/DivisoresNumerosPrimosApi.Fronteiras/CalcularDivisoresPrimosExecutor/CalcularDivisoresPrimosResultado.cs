@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DivisoresNumerosPrimosLocalizaApi.Fronteiras.CalcularDivisoresPrimosExecutor
+namespace DivisoresNumerosPrimosApi.Fronteiras.CalcularDivisoresPrimosExecutor
 {
     public class CalcularDivisoresPrimosResultado
     {

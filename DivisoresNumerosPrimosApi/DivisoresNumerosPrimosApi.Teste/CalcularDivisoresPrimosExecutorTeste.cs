@@ -1,5 +1,5 @@
-using DivisoresNumerosPrimosLocalizaApi.Executor;
-using DivisoresNumerosPrimosLocalizaApi.Fronteiras.CalcularDivisoresPrimosExecutor;
+using DivisoresNumerosPrimosApi.Executor;
+using DivisoresNumerosPrimosApi.Fronteiras.CalcularDivisoresPrimosExecutor;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;

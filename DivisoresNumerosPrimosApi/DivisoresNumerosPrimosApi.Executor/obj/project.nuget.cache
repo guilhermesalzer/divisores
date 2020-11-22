@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XWzAX5Vz0xTZUH29PdTbUsU7/MNVqff11pzJh8gOCH8wHAfNCnzQRlQRgIqShAY067GlPj4Zb6pTJiI6FK2tYw==",
+  "dgSpecHash": "HY466qBiNZmJ8dLqm2+6TfI1qviLnsrBTTWwthPx9BWQilsLzXySmWlNmKNfhUUWrLhjZcdilzgYuZHJ/PBnrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\Documents\\Projetos\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Executor\\DivisoresNumerosPrimosApi.Executor.csproj",
+  "projectFilePath": "C:\\Users\\guilh\\Documents\\Projetos\\Divisores\\divisores\\DivisoresNumerosPrimosApi\\DivisoresNumerosPrimosApi.Executor\\DivisoresNumerosPrimosApi.Executor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

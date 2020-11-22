@@ -1,6 +1,6 @@
-﻿using DivisoresNumerosPrimosLocalizaApi.Fronteiras.CalcularDivisoresExecutor;
+﻿using DivisoresNumerosPrimosApi.Fronteiras.CalcularDivisoresExecutor;
 
-namespace DivisoresNumerosPrimosLocalizaApi.Fronteiras
+namespace DivisoresNumerosPrimosApi.Fronteiras
 {
     public interface ICalcularDivisoresExecutor : IExecutor<CalcularDivisoresRequisicao, CalcularDivisoresResultado>
     {
